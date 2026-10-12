@@ -191,5 +191,3 @@ This project is for learning, not for matching the paper's results. To keep the 
 * T. Karras et al. *Analyzing and Improving the Image Quality of StyleGAN* (StyleGAN2). CVPR 2020. [arXiv:1912.04958](https://arxiv.org/abs/1912.04958)
 * T. Karras et al. *Progressive Growing of GANs for Improved Quality, Stability, and Variation.* ICLR 2018 (equalized learning rate, minibatch stddev). [arXiv:1710.10196](https://arxiv.org/abs/1710.10196)
 * L. Mescheder, A. Geiger, S. Nowozin. *Which Training Methods for GANs do actually Converge?* ICML 2018 (R1 regularization). [arXiv:1801.04406](https://arxiv.org/abs/1801.04406)
-#   g a n  
- 
